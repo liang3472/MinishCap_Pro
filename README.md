@@ -8,6 +8,8 @@
 
 3.*提供***eruda.min.js***动态注入webview*
 
+4.*chrome浏览器usb调试(正在完善使用教程)*
+
 ##原理
 1.使用js注入，将eruda.mini.js库动态注入到页面当中。
 
