@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>检测WebGL支持</title>
+    <style type="text/css">
+      .detect-box{
+        margin-top: 50%;
+        text-align: center;
+      }
+
+      detect-box p {
+        position: relative;
+        font-size: 20px;
+      }
+
+      detect-box button {
+        display: block;
+        font-size: 20px;
+        margin: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="detect-box">
+      <p>[ ------兼容报告将显示在这里------ ]</p>
+      <button>开始检测WebGL兼容性</button>
+    </div>
+    <script>
+      window.addEventListener("load", function () {
+        var paragraph = document.querySelector("p"),
+          button = document.querySelector("button");
+        button.addEventListener("click", detectWebGLContext, false);
+        function detectWebGLContext() {
+          var canvas = document.createElement("canvas");
+          var gl = canvas.getContext("webgl")
+            || canvas.getContext("experimental-webgl");
+          if (gl && gl instanceof WebGLRenderingContext) {
+            paragraph.innerHTML = '<font color="#b22222" size="20px">恭喜 你的浏览器支持WebGL.</font>';
+          } else {
+            paragraph.innerHTML = '<font color="#696969" size="20px">然而 你的浏览器并不支持WebGL.</font>';
+          }
+        }
+      }, false);
+    </script>
+  </body>
+</html>

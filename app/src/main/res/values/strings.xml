@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebViewTool</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">WebViewTool</string>
+    <string name="my_email">liang3472@gmail.com</string>
+</resources>
