@@ -77,7 +77,7 @@ OK, 开始调试吧(**ps**: 请记得手机上把usb调试功能打开)
 [3]: https://github.com/liang3472/NewYearResolution_2016/blob/master/Fe_WebViewTool/screenshot/3.pic.jpg
 [4]: https://github.com/liang3472/NewYearResolution_2016/blob/master/Fe_WebViewTool/screenshot/4.pic.jpg
 [5]: https://github.com/liang3472/NewYearResolution_2016/blob/master/Fe_WebViewTool/screenshot/5.pic.jpg
-[6]: https://github.com/liang3472/NewYearResolution_2016/blob/master/Fe_WebViewTool/screenshot/.jpg
+[6]: https://github.com/liang3472/NewYearResolution_2016/blob/master/Fe_WebViewTool/screenshot/6.pic.jpg
 [7]: https://github.com/liang3472/NewYearResolution_2016/blob/master/Fe_WebViewTool/screenshot/step01.png
 [8]: https://github.com/liang3472/NewYearResolution_2016/blob/master/Fe_WebViewTool/screenshot/step02.png
 [9]: https://github.com/liang3472/NewYearResolution_2016/blob/master/Fe_WebViewTool/screenshot/step03.png
