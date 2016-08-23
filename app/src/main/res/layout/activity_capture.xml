@@ -10,12 +10,12 @@
         android:layout_height="match_parent" >
     </SurfaceView>
 
-    <com.coderstudio.tomliang.fe_webviewtool.zxing.view.ViewfinderView
+    <com.coderstudio.tomliang.minishcap.zxing.view.ViewfinderView
         android:id="@+id/viewfinderview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#00000000" >
-    </com.coderstudio.tomliang.fe_webviewtool.zxing.view.ViewfinderView>
+    </com.coderstudio.tomliang.minishcap.zxing.view.ViewfinderView>
 
     <TextView
         android:layout_width="match_parent"

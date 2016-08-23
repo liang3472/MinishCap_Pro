@@ -7,7 +7,7 @@ import org.greenrobot.greendao.generator.Schema;
 
 public class MyDaoGenerator {
 
-    public static final String PACKAGENAME = "com.coderstudio.tomliang.fe_webviewtool";
+    public static final String PACKAGENAME = "com.coderstudio.tomliang.minishcap";
 
     public static void main(String[] args) throws Exception {
         Schema schema = new Schema(1, PACKAGENAME + ".bean");

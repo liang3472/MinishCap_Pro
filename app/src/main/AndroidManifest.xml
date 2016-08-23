@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.coderstudio.tomliang.fe_webviewtool">
+    package="com.coderstudio.tomliang.minishcap">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CAMERA" />
@@ -12,13 +12,13 @@
     <uses-permission android:name="android.permission.FLASHLIGHT" />
 
     <application
-        android:name=".AppContext"
+        android:name="com.coderstudio.tomliang.minishcap.AppContext"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true">
         <activity
-            android:name=".MainActivity"
+            android:name="com.coderstudio.tomliang.minishcap.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/MaterialDrawerTheme.Light.DarkToolbar">
             <intent-filter>
@@ -28,12 +28,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".HistoryActivity"
+            android:name="com.coderstudio.tomliang.minishcap.HistoryActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme" />
 
         <!-- 二维码 -->
-        <activity android:name=".zxing.CaptureActivity" />
+        <activity android:name="com.coderstudio.tomliang.minishcap.zxing.CaptureActivity" />
     </application>
 
 </manifest>
