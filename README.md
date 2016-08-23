@@ -82,14 +82,14 @@ OK, 开始调试吧(**ps**: 请记得手机上把usb调试功能打开)
 
 ![Image][6]
 
-[0]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/0.pic.jpg =500x
-[1]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/1.pic.jpg =500x
-[2]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/2.pic.jpg =500x
-[3]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/3.pic.jpg =500x
-[4]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/4.pic.jpg =500x
-[5]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/5.pic.jpg =500x
-[6]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/6.pic.jpg =500x
-[7]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/step01.png =500x
-[8]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/step02.png =500x
-[9]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/step03.png =500x
+[0]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/0.pic.jpg
+[1]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/1.pic.jpg
+[2]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/2.pic.jpg
+[3]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/3.pic.jpg
+[4]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/4.pic.jpg
+[5]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/5.pic.jpg
+[6]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/6.pic.jpg
+[7]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/step01.png
+[8]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/step02.png
+[9]: https://raw.githubusercontent.com/liang3472/Fe_WebViewTools_Pro/master/screenshot/step03.png
 
